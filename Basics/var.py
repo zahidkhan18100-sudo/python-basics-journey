@@ -14,6 +14,6 @@ print(type(a))
 print(type(b))
 print( "THE TYPE OF c",type(c))
 # start with number is not valid 
-# hyphen is not alloed
+# hyphen is not allowed
 # \n is use for new line 
 # data types are float , int , bool , str
