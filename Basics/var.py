@@ -12,7 +12,7 @@ a1 = 9
 print(a +a1)
 print(type(a))
 print(type(b))
-print( "THE TYPE OF c",type(c))
+print( "THE TYPE OF c",type(c)) 
 # start with number is not valid 
 # hyphen is not allowed
 # \n is use for new line 
