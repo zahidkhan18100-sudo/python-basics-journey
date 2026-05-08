@@ -1,4 +1,5 @@
 # String Method
+# IMPORTANT - STRINGS ARE IMMUTABLE
 # Python provides a set of BUILT-IN-Methods that we can use to alter and modify the strings
 a = "Khan"
 print(len(a))
